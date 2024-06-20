@@ -64,7 +64,7 @@ These products can be easily uploaded to the marketplace through the app for sel
 
 - [@katakampranav](https://github.com/katakampranav)
 - **Repositories :**
-https://github.com/saiabhiramjaini/ReSculpt
+https://github.com/katakampranav/RESCULPT
 
 ## Feedback 
 
