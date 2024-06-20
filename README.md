@@ -26,6 +26,8 @@ Empowering Sustainable Practices: Bridging Waste Contributors and Artisans Throu
 
 ![Workflow of Resculpt](https://github.com/katakampranav/RESCULPT/assets/133202118/35510396-ba2c-426d-8a49-42669eb284d7)
 
+![ReSculpt logo](https://github.com/katakampranav/RESCULPT/assets/133202118/55de4cab-89aa-44f1-be6e-a65f14bad955)
+
 ## Demo Video
 
 [![YouTube Video](https://img.youtube.com/vi/xX8E7E1Jx2c/0.jpg)](https://youtu.be/6csys327hEw?feature=shared)
